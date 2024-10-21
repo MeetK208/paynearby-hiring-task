@@ -1,0 +1,8 @@
+fast-api-env
+.env
+# *.db
+__pycache__/
+*.py[cod]
+*.log
+.pyc
+**/__pycache__
