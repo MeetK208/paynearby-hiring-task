@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Paynearby Data Engineering Assignment
 
 # Overview
@@ -265,6 +264,3 @@ You can follow App Structure as below example for best Pratices:
 
 
  
-=======
-# paynearby-hiring-task
->>>>>>> 8a1e2db547ed6961cc51db1ee230a969ec411eb1
